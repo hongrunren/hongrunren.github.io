@@ -11,9 +11,9 @@ title                    : "Kai Wang"
 title_separator          : "-"
 name                     : &name "Kai Wang"
 description              : &description "I am a PhD student at Fudan university"
-url                      : https://polarwk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hrren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "polarwk/polarwk.github.io"
+repository               : "hongrunren/hrren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
