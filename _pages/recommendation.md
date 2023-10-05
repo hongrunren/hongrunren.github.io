@@ -11,7 +11,7 @@ redirect_from:
 
 Paper Recommendation
 ======
-I am interested in data analysis on the Blockchain. Here list some related papers I recommend.
+I am interested in data transportation and data pricing. Here list some related papers I recommend.
 
 ## Data mining and Analysis
 * Chen W, Wu J, Zheng Z, et al. Market manipulation of bitcoin: evidence from mining the Mt. Gox transaction network, IEEE INFOCOM 2019-IEEE Conference on Computer Communications(INFOCOM). IEEE, 2019: 964-972. [(paper)](https://ieeexplore.ieee.org/abstract/document/8737364)
@@ -22,17 +22,6 @@ I am interested in data analysis on the Blockchain. Here list some related paper
 * Chen W, Zheng Z, Cui J, et al. Detecting ponzi schemes on ethereum: Towards healthier blockchain technology, Proceedings of the 2018 World Wide Web Conference(WWW). 2018: 1409-1418. [(paper)](https://dl.acm.org/doi/abs/10.1145/3178876.3186046)
 * Portnoff R S, Huang D Y, Doerfler P, et al. Backpage and bitcoin: Uncovering human traffickers, Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD). 2017: 1595-1604. [(paper)](https://dl.acm.org/doi/abs/10.1145/3097983.3098082)
 
-## Attack
-* Tran M, Choi I, Moon G J, et al. A stealthier partitioning attack against bitcoin peer-to-peer network[C]//IEEE Symposium on Security and Privacy (S&P). 2020. [(paper)](https://www.comp.nus.edu.sg/~kangms/paperserebus-attack.pdf)
-* Apostolaki M, Zohar A, Vanbever L. Hijacking bitcoin: Routing attacks on cryptocurrencies, 2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017: 375-392. [(paper)](https://ieeexplore.ieee.org/abstract/document/7958588/)
-* Heilman E, Kendler A, Zohar A, et al. Eclipse attacks on bitcoin’s peer-to-peer network, 24th USENIX Security Symposium (USENIX). 2015: 129-144. [(paper)](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/heilman)
-
-## Smart contract
-* Krupp J, Rossow C. teether: Gnawing at ethereum to automatically exploit smart contracts, 27th USENIX Security Symposium (USENIX). 2018: 1317-1333. [(paper)](https://www.usenix.org/conference/usenixsecurity18/presentation/krupp)
-* Tsankov P, Dan A, Drachsler-Cohen D, et al. Securify: Practical security analysis of smart contracts, Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security(CCS). 2018: 67-82. [(paper)](https://dl.acm.org/doi/abs/10.1145/3243734.3243780)
-
-## Consensus mechanism
-* Badertscher C, Gaži P, Kiayias A, et al. Ouroboros genesis: Composable proof-of-stake blockchains with dynamic availability, Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security(CCS). 2018: 913-930. [(paper)](https://dl.acm.org/doi/abs/10.1145/3243734.3243848)
-* Gervais A, Karame G O, Wüst K, et al. On the security and performance of proof of work blockchains, Proceedings of the 2016 ACM SIGSAC conference on computer and communications security(CCS). 2016: 3-16. [(paper)](https://dl.acm.org/doi/abs/10.1145/2976749.2978341)
-
-
+* AGARWAL A, DAHLEH M, SARKAR T. A marketplace for data: an algorithmic solution[C]//Proceedings of the 2019 ACM Conference on Economics and Computation. New York: ACM Press, 2019: 701-726.
+* CHELLAPPA R K, MEHRA A. Versioning 2.0: a product line and pricing model for information goods under usage constraints and with R&D costs[C]//Proceedings of the Information Systems Technology. [S.l.:s.n.], 2013: 5-6.
+* PEI J. A survey on data pricing: from economics to data science[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 34(10): 4586-4608.[(paper)](https://ieeexplore.ieee.org/abstract/document/9300226/)
