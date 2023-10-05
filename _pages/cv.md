@@ -11,5 +11,5 @@ redirect_from:
 Education
 ======
 * B.E. in Software School, Fudan University, 2020
-* Ph.D in Data Security and Privacy Protection, Fudan University, 2025 (expected)
+* Ph.D in Data Production and Data Pricing, Fudan University, 2024 (expected)
 
