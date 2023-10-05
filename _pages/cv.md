@@ -10,6 +10,6 @@ redirect_from:
 
 Education
 ======
-* B.E. in Software School, Fudan University, 2020
+* Bachelor's Degree, Shanxi University, 2016
+* Master's Degree, Civil Aviation University of China, 2020
 * Ph.D in Data Production and Data Pricing, Fudan University, 2024 (expected)
-
