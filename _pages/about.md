@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my B.E. of Software school at Fudan University in 2020.
-Then, I will study for a Ph.D. at Fudan University, under supervision of [Dr. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/).
+I received my bachelor's degree from Shanxi University in 2016 and my master's degree from Civil Aviation University of China in 2020. 
+After that, I will study for my PhD at Fudan University under Dr. Yangyong Zhu.
 
-My research interests include data analysis on the Blockchain and the combination of Blockchain and MPC.
+My research interests include data science and the digital economy, with a recent focus on the production, distribution and pricing of data products.
 
