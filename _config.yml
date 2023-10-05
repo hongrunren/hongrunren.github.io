@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Wang"
+title                    : "Hongrun Ren"
 title_separator          : "-"
-name                     : &name "Kai Wang"
+name                     : &name "Hongrun Ren"
 description              : &description "I am a PhD student at Fudan university"
 url                      : https://hongrunren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
